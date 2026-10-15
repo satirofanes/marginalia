@@ -1,0 +1,6 @@
+{
+  "summary": "Plan de implementación para corregir la fluidez del trazo con Wacom (estabilizador caligráfico y captura de alta frecuencia coalesced events) y generar un ejecutable .exe idéntico a la interfaz web mediante PyWebView y PyInstaller.",
+  "updatedAt": "2026-10-15T06:06:02.941242341Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

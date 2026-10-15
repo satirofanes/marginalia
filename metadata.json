@@ -1,0 +1,6 @@
+{
+  "name": "Marginalia Studio - Lector y Anotador Editorial Wacom",
+  "description": "Visualizador profesional de documentos multiformato (PDF, Office, ePub, TXT) con motor de tinta digital sensible a la presión Wacom, identificadores de marcas editoriales y exportador a Python ejecutable (.exe).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
